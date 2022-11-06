@@ -6,7 +6,7 @@
 ## 文档
 - [代理设置大全](proxy.md)
 ### VPS 
-- [申请谷歌免费云服务器](https://qileq.com/blog/2022/apply-gcp/)
+- [申请谷歌免费云服务器](https://qileq.com/article/202205160001/)
 
 ### 路由器
-- [小米路由器开启 Shell](https://qileq.com/blog/2022/router-enable-shell/)
+- [小米路由器开启 Shell](https://qileq.com/article/202208210002/)
