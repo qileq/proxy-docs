@@ -4,10 +4,11 @@
 
 
 ## 代理
-- [代理设置大全](https://qileq.com/article/202212150001/)
+- [代理设置大全](https://qileq.com/163/)
 
 ## VPS 
-- [申请谷歌免费云服务器](https://qileq.com/article/202205160001/)
+- [申请谷歌免费云服务器](https://qileq.com/122/)
 
 ## 路由器
-- [小米路由器开启 Shell](https://qileq.com/article/202208210002/)
+- [小米路由器开启 Shell](https://qileq.com/154/)
+- [家庭宽带开启 IPv6](https://qileq.com/268/)
